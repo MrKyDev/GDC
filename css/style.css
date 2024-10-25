@@ -369,15 +369,15 @@ section{
 }
 
 .review .box-container{
-    display: grid;
+    display:grid;
     grid-template-columns:cover repeat(auto-fit, minmax(30rem, 1fr));
     gap:1.5rem;
 }
 
 .review .box-container .box{
     border:var(--border);
-    padding:1rem 1rem;
-    width:fit-content;
+    padding:1rem 3rem;
+    width:max-content;
 }
 
 .review .box-container .box .stars i{
