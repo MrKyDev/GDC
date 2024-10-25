@@ -298,12 +298,7 @@ section{
     gap:1.5rem;
 }
 
-.review .box-container .box{
-    border:var(--border);
-    padding:1rem 1rem;
-    width:max-content;
-    
-}
+
 
 .review .box-container .box .stars i{
     font-size: 1.5rem;
