@@ -271,15 +271,6 @@ section{
     font-size: 2.5rem;
 }
 
-.products .box-container .box .content .stars{
-    padding: 1.5rem;
-}
-
-.products .box-container .box .content .stars i{
-    font-size: 1.7rem;
-    color: var(--main-color);
-}
-
 .products .box-container .box .content .price{
     color:#fff;
     font-size: 2.5rem;
@@ -289,20 +280,6 @@ section{
     text-decoration: line-through;
     font-weight: lighter;
     font-size: 1.5rem;
-}
-
-.review .box-container{
-    
-    display:grid;
-    grid-template-columns:cover repeat(auto-fit, minmax(30rem, 1fr));
-    gap:1.5rem;
-}
-
-
-
-.review .box-container .box .stars i{
-    font-size: 1.5rem;
-    color:var(--main-color);
 }
 
 .contact .row{
